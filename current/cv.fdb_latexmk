@@ -1,10 +1,13 @@
-# Fdb version 3
-["latex"] 1574868830 "cv.tex" "cv.dvi" "cv" 1574868830
-  "/usr/share/texmf-dist/web2c/texmf.cnf" 1572595918 33301 a3134070eacafb10b1f371612ce2650d ""
-  "/var/lib/texmf/web2c/pdftex/latex.fmt" 1573825969 8044842 d1e04dff471f4c067a62a29311768280 ""
+# Fdb version 4
+["pdflatex"] 1728847560.38113 "/home/claas/Documents/Privat/Awesome-CV/current/cv.tex" "cv.pdf" "cv" 1728847560.53732 2
+  "/home/claas/Documents/Privat/Awesome-CV/current/cv.tex" 1713207797.30427 3362 97706e7603d3483aa969da3d7cf0e627 ""
+  "/usr/share/texmf-dist/web2c/texmf.cnf" 1727349926 41588 b43d3e860a4f94167ee1e725ff526a72 ""
+  "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1727555492 7112997 805aab5f60c4713fc157087875c8d814 ""
   "awesome-cv.cls" 0 -1 0 ""
-  "cv.aux" 1568199273 628 8e762e3fa6240f6f8fe2e9db6cd33e0e "latex"
-  "cv.tex" 1565811423 3397 c5b7427cd39e11accb0085d6d823f6b8 ""
+  "cv.aux" 1728847560.37839 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "cv.tex" 1713207797.30427 3362 97706e7603d3483aa969da3d7cf0e627 ""
   (generated)
+  "cv.aux"
   "cv.log"
-  "cv.dvi"
+  "cv.pdf"
+  (rewritten before read)
